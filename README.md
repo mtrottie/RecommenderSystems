@@ -1,5 +1,5 @@
 # Recommender Systems
-Repo for learning Recommender Systems
+Repo for my personal learning of Recommender Systems. Take anything in this repo with a grain of salt. :)
 
 ## Setup
 
