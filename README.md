@@ -9,4 +9,5 @@ Repo for my personal learning of Recommender Systems. Take anything in this repo
 
 ## Running
 
+1. source .env/bin/activate
 1. jupyter lab
