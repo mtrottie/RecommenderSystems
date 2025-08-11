@@ -1,0 +1,411 @@
+full_schedule_text = """
+GAME LOCAL ET TV
+Dallas Cowboys at Philadelphia Eagles (Thu) 8:20p (ET) 8:20p NBC
+Kansas City Chiefs vs Los Angeles Chargers (Sao Paulo) 9:00p (BRT) 8:00p YouTube
+Tampa Bay Buccaneers at Atlanta Falcons 1:00p (ET) 1:00p FOX
+Cincinnati Bengals at Cleveland Browns 1:00p (ET) 1:00p FOX
+Miami Dolphins at Indianapolis Colts 1:00p (ET) 1:00p CBS
+Carolina Panthers at Jacksonville Jaguars 1:00p (ET) 1:00p FOX
+Las Vegas Raiders at New England Patriots 1:00p (ET) 1:00p CBS
+Arizona Cardinals at New Orleans Saints 12:00p (CT) 1:00p CBS
+Pittsburgh Steelers at New York Jets 1:00p (ET) 1:00p CBS
+New York Giants at Washington Commanders 1:00p (ET) 1:00p FOX
+Tennessee Titans at Denver Broncos 2:05p (MT) 4:05p FOX
+San Francisco 49ers at Seattle Seahawks 1:05p (PT) 4:05p FOX
+Detroit Lions at Green Bay Packers 3:25p (CT) 4:25p CBS
+Houston Texans at Los Angeles Rams 1:25p (PT) 4:25p CBS
+Baltimore Ravens at Buffalo Bills 8:20p (ET) 8:20p NBC
+Minnesota Vikings at Chicago Bears (Mon) 7:15p (CT) 8:15p ABC/ESPN
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+WEEK 1
+Thursday, September 04, 2025
+Friday, September 05, 2025
+Sunday, September 07, 2025
+Monday, September 08, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Washington Commanders at Green Bay Packers (Thu) 7:15p (CT) 8:15p Prime Video
+Cleveland Browns at Baltimore Ravens 1:00p (ET) 1:00p CBS
+Jacksonville Jaguars at Cincinnati Bengals 1:00p (ET) 1:00p CBS
+New York Giants at Dallas Cowboys 12:00p (CT) 1:00p FOX
+Chicago Bears at Detroit Lions 1:00p (ET) 1:00p FOX
+New England Patriots at Miami Dolphins 1:00p (ET) 1:00p CBS
+San Francisco 49ers at New Orleans Saints 12:00p (CT) 1:00p FOX
+Buffalo Bills at New York Jets 1:00p (ET) 1:00p CBS
+Seattle Seahawks at Pittsburgh Steelers 1:00p (ET) 1:00p FOX
+Los Angeles Rams at Tennessee Titans 12:00p (CT) 1:00p CBS
+Carolina Panthers at Arizona Cardinals 1:05p (MT) 4:05p CBS
+Denver Broncos at Indianapolis Colts 4:05p (ET) 4:05p CBS
+Philadelphia Eagles at Kansas City Chiefs 3:25p (CT) 4:25p FOX
+Atlanta Falcons at Minnesota Vikings 7:20p (CT) 8:20p NBC
+Tampa Bay Buccaneers at Houston Texans (Mon) 6:00p (CT) 7:00p ABC
+Los Angeles Chargers at Las Vegas Raiders (Mon) 7:00p (PT) 10:00p ESPN
+Monday, September 15, 2025
+WEEK 2
+Thursday, September 11, 2025
+Sunday, September 14, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Miami Dolphins at Buffalo Bills (Thu) 8:15p (ET) 8:15p Prime Video
+Atlanta Falcons at Carolina Panthers 1:00p (ET) 1:00p FOX
+Green Bay Packers at Cleveland Browns 1:00p (ET) 1:00p FOX
+Houston Texans at Jacksonville Jaguars 1:00p (ET) 1:00p CBS
+Cincinnati Bengals at Minnesota Vikings 12:00p (CT) 1:00p CBS
+Pittsburgh Steelers at New England Patriots 1:00p (ET) 1:00p CBS
+Los Angeles Rams at Philadelphia Eagles 1:00p (ET) 1:00p FOX
+New York Jets at Tampa Bay Buccaneers 1:00p (ET) 1:00p FOX
+Indianapolis Colts at Tennessee Titans 12:00p (CT) 1:00p CBS
+Las Vegas Raiders at Washington Commanders 1:00p (ET) 1:00p FOX
+Denver Broncos at Los Angeles Chargers 1:05p (PT) 4:05p CBS
+New Orleans Saints at Seattle Seahawks 1:05p (PT) 4:05p CBS
+Dallas Cowboys at Chicago Bears 3:25p (CT) 4:25p FOX
+Arizona Cardinals at San Francisco 49ers 1:25p (PT) 4:25p FOX
+Kansas City Chiefs at New York Giants 8:20p (ET) 8:20p NBC
+Detroit Lions at Baltimore Ravens (Mon) 8:15p (ET) 8:15p ESPN/ABC
+WEEK 3
+Thursday, September 18, 2025
+Sunday, September 21, 2025
+Monday, September 22, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Seattle Seahawks at Arizona Cardinals (Thu) 5:15p (MT) 8:15p Prime Video
+Minnesota Vikings vs Pittsburgh Steelers (Dublin) 2:30p (IST) 9:30a NFLN
+Washington Commanders at Atlanta Falcons 1:00p (ET) 1:00p CBS
+New Orleans Saints at Buffalo Bills 1:00p (ET) 1:00p CBS
+Cleveland Browns at Detroit Lions 1:00p (ET) 1:00p FOX
+Tennessee Titans at Houston Texans 12:00p (CT) 1:00p CBS
+Carolina Panthers at New England Patriots 1:00p (ET) 1:00p FOX
+Los Angeles Chargers at New York Giants 1:00p (ET) 1:00p CBS
+Philadelphia Eagles at Tampa Bay Buccaneers 1:00p (ET) 1:00p FOX
+Indianapolis Colts at Los Angeles Rams 1:05p (PT) 4:05p FOX
+Jacksonville Jaguars at San Francisco 49ers 1:05p (PT) 4:05p FOX
+Baltimore Ravens at Kansas City Chiefs 3:25p (CT) 4:25p CBS
+Chicago Bears at Las Vegas Raiders 1:25p (PT) 4:25p CBS
+Green Bay Packers at Dallas Cowboys 7:20p (CT) 8:20p NBC
+New York Jets at Miami Dolphins (Mon) 7:15p (ET) 7:15p ESPN
+Cincinnati Bengals at Denver Broncos (Mon) 6:15p (MT) 8:15p ABC
+WEEK 4
+Thursday, September 25, 2025
+Sunday, September 28, 2025
+Monday, September 29, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+San Francisco 49ers at Los Angeles Rams (Thu) 5:15p (PT) 8:15p Prime Video
+Minnesota Vikings vs Cleveland Browns (Tottenham) 2:30p (BST) 9:30a NFLN
+Houston Texans at Baltimore Ravens 1:00p (ET) 1:00p CBS
+Miami Dolphins at Carolina Panthers 1:00p (ET) 1:00p FOX
+Las Vegas Raiders at Indianapolis Colts 1:00p (ET) 1:00p FOX
+New York Giants at New Orleans Saints 12:00p (CT) 1:00p CBS
+Dallas Cowboys at New York Jets 1:00p (ET) 1:00p FOX
+Denver Broncos at Philadelphia Eagles 1:00p (ET) 1:00p CBS
+Tennessee Titans at Arizona Cardinals 1:05p (MT) 4:05p CBS
+Tampa Bay Buccaneers at Seattle Seahawks 1:05p (PT) 4:05p CBS
+Detroit Lions at Cincinnati Bengals 4:25p (ET) 4:25p FOX
+Washington Commanders at Los Angeles Chargers 1:25p (PT) 4:25p FOX
+New England Patriots at Buffalo Bills 8:20p (ET) 8:20p NBC
+Kansas City Chiefs at Jacksonville Jaguars (Mon) 8:15p (ET) 8:15p ESPN/ABC
+BYES: Atlanta, Chicago, Green Bay, Pittsburgh
+Thursday, October 02, 2025
+Sunday, October 05, 2025
+Monday, October 06, 2025
+WEEK 5
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Philadelphia Eagles at New York Giants (Thu) 8:15p (ET) 8:15p Prime Video
+Denver Broncos vs New York Jets (Tottenham) 2:30p (BST) 9:30a NFLN
+Los Angeles Rams at Baltimore Ravens 1:00p (ET) 1:00p FOX
+Dallas Cowboys at Carolina Panthers 1:00p (ET) 1:00p FOX
+Arizona Cardinals at Indianapolis Colts 1:00p (ET) 1:00p FOX
+Seattle Seahawks at Jacksonville Jaguars 1:00p (ET) 1:00p FOX
+Los Angeles Chargers at Miami Dolphins 1:00p (ET) 1:00p CBS
+Cleveland Browns at Pittsburgh Steelers 1:00p (ET) 1:00p CBS
+San Francisco 49ers at Tampa Bay Buccaneers 1:00p (ET) 1:00p CBS
+Tennessee Titans at Las Vegas Raiders 1:05p (PT) 4:05p FOX
+Cincinnati Bengals at Green Bay Packers 3:25p (CT) 4:25p CBS
+New England Patriots at New Orleans Saints 3:25p (CT) 4:25p CBS
+Detroit Lions at Kansas City Chiefs 7:20p (CT) 8:20p NBC
+Buffalo Bills at Atlanta Falcons (Mon) 7:15p (ET) 7:15p ESPN
+Chicago Bears at Washington Commanders (Mon) 8:15p (ET) 8:15p ABC
+BYES: Houston, Minnesota
+WEEK 6
+Thursday, October 09, 2025
+Sunday, October 12, 2025
+Monday, October 13, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Pittsburgh Steelers at Cincinnati Bengals (Thu) 8:15p (ET) 8:15p Prime Video
+Los Angeles Rams at Jacksonville Jaguars (Wembley) 2:30p (BST) 9:30a NFLN
+New Orleans Saints at Chicago Bears 12:00p (CT) 1:00p FOX
+Miami Dolphins at Cleveland Browns 1:00p (ET) 1:00p CBS
+Las Vegas Raiders at Kansas City Chiefs 12:00p (CT) 1:00p CBS
+Philadelphia Eagles at Minnesota Vikings 12:00p (CT) 1:00p FOX
+Carolina Panthers at New York Jets 1:00p (ET) 1:00p FOX
+New England Patriots at Tennessee Titans 12:00p (CT) 1:00p CBS
+New York Giants at Denver Broncos 2:05p (MT) 4:05p CBS
+Indianapolis Colts at Los Angeles Chargers 1:05p (PT) 4:05p CBS
+Green Bay Packers at Arizona Cardinals 1:25p (MT) 4:25p FOX
+Washington Commanders at Dallas Cowboys 3:25p (CT) 4:25p FOX
+Atlanta Falcons at San Francisco 49ers 5:20p (PT) 8:20p NBC
+Tampa Bay Buccaneers at Detroit Lions (Mon) 7:00p (ET) 7:00p ESPN/ABC
+Houston Texans at Seattle Seahawks (Mon) 7:00p (PT) 10:00p ESPN+
+BYES: Baltimore, Buffalo
+Monday, October 20, 2025
+Sunday, October 19, 2025
+WEEK 7
+Thursday, October 16, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Minnesota Vikings at Los Angeles Chargers (Thu) 5:15p (PT) 8:15p Prime Video
+Miami Dolphins at Atlanta Falcons 1:00p (ET) 1:00p CBS
+Chicago Bears at Baltimore Ravens 1:00p (ET) 1:00p CBS
+Buffalo Bills at Carolina Panthers 1:00p (ET) 1:00p FOX
+New York Jets at Cincinnati Bengals 1:00p (ET) 1:00p CBS
+San Francisco 49ers at Houston Texans 12:00p (CT) 1:00p FOX
+Cleveland Browns at New England Patriots 1:00p (ET) 1:00p FOX
+New York Giants at Philadelphia Eagles 1:00p (ET) 1:00p FOX
+Tampa Bay Buccaneers at New Orleans Saints 3:05p (CT) 4:05p FOX
+Dallas Cowboys at Denver Broncos 2:25p (MT) 4:25p CBS
+Tennessee Titans at Indianapolis Colts 4:25p (ET) 4:25p CBS
+Green Bay Packers at Pittsburgh Steelers 8:20p (ET) 8:20p NBC
+Washington Commanders at Kansas City Chiefs (Mon) 7:15p (CT) 8:15p ESPN/ABC
+BYES: Arizona, Detroit, Jacksonville, L.A. Rams, Las Vegas, Seattle
+WEEK 8
+Thursday, October 23, 2025
+Sunday, October 26, 2025
+Monday, October 27, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Baltimore Ravens at Miami Dolphins (Thu) 8:15p (ET) 8:15p Prime Video
+Chicago Bears at Cincinnati Bengals 1:00p (ET) 1:00p CBS
+Minnesota Vikings at Detroit Lions 1:00p (ET) 1:00p FOX
+Carolina Panthers at Green Bay Packers 12:00p (CT) 1:00p FOX
+Denver Broncos at Houston Texans 12:00p (CT) 1:00p FOX
+Atlanta Falcons at New England Patriots 1:00p (ET) 1:00p CBS
+San Francisco 49ers at New York Giants 1:00p (ET) 1:00p CBS
+Indianapolis Colts at Pittsburgh Steelers 1:00p (ET) 1:00p CBS
+Los Angeles Chargers at Tennessee Titans 12:00p (CT) 1:00p CBS
+New Orleans Saints at Los Angeles Rams 1:05p (PT) 4:05p FOX
+Jacksonville Jaguars at Las Vegas Raiders 1:05p (PT) 4:05p FOX
+Kansas City Chiefs at Buffalo Bills 4:25p (ET) 4:25p CBS
+Seattle Seahawks at Washington Commanders 8:20p (ET) 8:20p NBC
+Arizona Cardinals at Dallas Cowboys (Mon) 7:15p (CT) 8:15p ESPN/ABC
+BYES: Cleveland, N.Y. Jets, Philadelphia, Tampa Bay
+WEEK 9
+Thursday, October 30, 2025
+Sunday, November 02, 2025
+Monday, November 03, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14/25)
+(Games grouped by start times and listed alphabetically by home team)
+Las Vegas Raiders at Denver Broncos (Thu) 6:15p (MT) 8:15p Prime Video
+Atlanta Falcons vs Indianapolis Colts (Berlin) 3:30p (CET) 9:30a NFLN
+New Orleans Saints at Carolina Panthers 1:00p (ET) 1:00p FOX
+New York Giants at Chicago Bears 12:00p (CT) 1:00p FOX
+Jacksonville Jaguars at Houston Texans 12:00p (CT) 1:00p CBS
+Buffalo Bills at Miami Dolphins 1:00p (ET) 1:00p CBS
+Baltimore Ravens at Minnesota Vikings 12:00p (CT) 1:00p FOX
+Cleveland Browns at New York Jets 1:00p (ET) 1:00p CBS
+New England Patriots at Tampa Bay Buccaneers 1:00p (ET) 1:00p CBS
+Arizona Cardinals at Seattle Seahawks 1:05p (PT) 4:05p CBS
+Los Angeles Rams at San Francisco 49ers 1:25p (PT) 4:25p FOX
+Detroit Lions at Washington Commanders 4:25p (ET) 4:25p FOX
+Pittsburgh Steelers at Los Angeles Chargers 5:20p (PT) 8:20p NBC
+Philadelphia Eagles at Green Bay Packers (Mon) 7:15p (CT) 8:15p ESPN/ABC
+BYES: Cincinnati, Dallas, Kansas City, Tennessee
+WEEK 10
+Thursday, November 06, 2025
+Sunday, November 09, 2025
+Monday, November 10, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5/14:25)
+(Games grouped by start times and listed alphabetically by home team)
+New York Jets at New England Patriots (Thu) 8:15p (ET) 8:15p Prime Video
+Washington Commanders vs Miami Dolphins (Madrid) 3:30p (CET) 9:30a NFLN
+Carolina Panthers at Atlanta Falcons 1:00p (ET) 1:00p FOX
+Tampa Bay Buccaneers at Buffalo Bills 1:00p (ET) 1:00p CBS
+Los Angeles Chargers at Jacksonville Jaguars 1:00p (ET) 1:00p CBS
+Chicago Bears at Minnesota Vikings 12:00p (CT) 1:00p FOX
+Green Bay Packers at New York Giants 1:00p (ET) 1:00p FOX
+Cincinnati Bengals at Pittsburgh Steelers 1:00p (ET) 1:00p CBS
+Houston Texans at Tennessee Titans 12:00p (CT) 1:00p FOX
+San Francisco 49ers at Arizona Cardinals 2:05p (MT) 4:05p FOX
+Seattle Seahawks at Los Angeles Rams 1:05p (PT) 4:05p FOX
+Baltimore Ravens at Cleveland Browns 4:25p (ET) 4:25p CBS
+Kansas City Chiefs at Denver Broncos 2:25p (MT) 4:25p CBS
+Detroit Lions at Philadelphia Eagles 8:20p (ET) 8:20p NBC
+Dallas Cowboys at Las Vegas Raiders (Mon) 5:15p (PT) 8:15p ESPN/ABC
+BYES: Indianapolis, New Orleans
+WEEK 11
+Thursday, November 13, 2025
+Sunday, November 16, 2025
+Monday, November 17, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+Buffalo Bills at Houston Texans (Thu) 7:15p (CT) 8:15p Prime Video
+New York Jets at Baltimore Ravens 1:00p (ET) 1:00p CBS
+Pittsburgh Steelers at Chicago Bears 12:00p (CT) 1:00p CBS
+New England Patriots at Cincinnati Bengals 1:00p (ET) 1:00p CBS
+New York Giants at Detroit Lions 1:00p (ET) 1:00p FOX
+Minnesota Vikings at Green Bay Packers 12:00p (CT) 1:00p FOX
+Indianapolis Colts at Kansas City Chiefs 12:00p (CT) 1:00p CBS
+Seattle Seahawks at Tennessee Titans 12:00p (CT) 1:00p FOX
+Jacksonville Jaguars at Arizona Cardinals 2:05p (MT) 4:05p CBS
+Cleveland Browns at Las Vegas Raiders 1:05p (PT) 4:05p CBS
+Philadelphia Eagles at Dallas Cowboys 3:25p (CT) 4:25p FOX
+Atlanta Falcons at New Orleans Saints 3:25p (CT) 4:25p FOX
+Tampa Bay Buccaneers at Los Angeles Rams 5:20p (PT) 8:20p NBC
+Carolina Panthers at San Francisco 49ers (Mon) 5:15p (PT) 8:15p ESPN
+BYES: Denver, L.A. Chargers, Miami, Washington
+Sunday, November 23, 2025
+Monday, November 24, 2025
+Thursday, November 20, 2025
+WEEK 12
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+Green Bay Packers at Detroit Lions (Thanksgiving) 1:00p (ET) 1:00p FOX
+Kansas City Chiefs at Dallas Cowboys (Thanksgiving) 3:30p (CT) 4:30p CBS
+Cincinnati Bengals at Baltimore Ravens (Thanksgiving) 8:20p (ET) 8:20p NBC
+Chicago Bears at Philadelphia Eagles (Fri) 3:00p (ET) 3:00p Prime Video
+Los Angeles Rams at Carolina Panthers 1:00p (ET) 1:00p FOX
+San Francisco 49ers at Cleveland Browns 1:00p (ET) 1:00p CBS
+Houston Texans at Indianapolis Colts 1:00p (ET) 1:00p CBS
+New Orleans Saints at Miami Dolphins 1:00p (ET) 1:00p FOX
+Atlanta Falcons at New York Jets 1:00p (ET) 1:00p FOX
+Arizona Cardinals at Tampa Bay Buccaneers 1:00p (ET) 1:00p FOX
+Jacksonville Jaguars at Tennessee Titans 12:00p (CT) 1:00p CBS
+Minnesota Vikings at Seattle Seahawks 1:05p (PT) 4:05p FOX
+Las Vegas Raiders at Los Angeles Chargers 1:25p (PT) 4:25p CBS
+Buffalo Bills at Pittsburgh Steelers 4:25p (ET) 4:25p CBS
+Denver Broncos at Washington Commanders 8:20p (ET) 8:20p NBC
+New York Giants at New England Patriots (Mon) 8:15p (ET) 8:15p ESPN
+WEEK 13
+Thursday, November 27, 2025
+Friday, November 28, 2025
+Sunday, November 30, 2025
+Monday, December 01, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+Dallas Cowboys at Detroit Lions (Thu) 8:15p (ET) 8:15p Prime Video
+Seattle Seahawks at Atlanta Falcons 1:00p (ET) 1:00p FOX
+Pittsburgh Steelers at Baltimore Ravens 1:00p (ET) 1:00p CBS
+Tennessee Titans at Cleveland Browns 1:00p (ET) 1:00p FOX
+Chicago Bears at Green Bay Packers 12:00p (CT) 1:00p FOX
+Indianapolis Colts at Jacksonville Jaguars 1:00p (ET) 1:00p CBS
+Washington Commanders at Minnesota Vikings 12:00p (CT) 1:00p FOX
+Miami Dolphins at New York Jets 1:00p (ET) 1:00p CBS
+New Orleans Saints at Tampa Bay Buccaneers 1:00p (ET) 1:00p CBS
+Denver Broncos at Las Vegas Raiders 1:05p (PT) 4:05p CBS
+Los Angeles Rams at Arizona Cardinals 2:25p (MT) 4:25p FOX
+Cincinnati Bengals at Buffalo Bills 4:25p (ET) 4:25p FOX
+Houston Texans at Kansas City Chiefs 7:20p (CT) 8:20p NBC
+Philadelphia Eagles at Los Angeles Chargers (Mon) 5:15p (PT) 8:15p ESPN/ABC
+BYES: Carolina, New England, N.Y. Giants, San Francisco
+Monday, December 08, 2025
+Sunday, December 07, 2025
+WEEK 14
+Thursday, December 04, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+Atlanta Falcons at Tampa Bay Buccaneers (Thu) 8:15p (ET) 8:15p Prime Video
+Cleveland Browns at Chicago Bears 12:00p (CT) 1:00p FOX
+Baltimore Ravens at Cincinnati Bengals 1:00p (ET) 1:00p CBS
+Arizona Cardinals at Houston Texans 12:00p (CT) 1:00p FOX
+New York Jets at Jacksonville Jaguars 1:00p (ET) 1:00p CBS
+Los Angeles Chargers at Kansas City Chiefs 12:00p (CT) 1:00p CBS
+Buffalo Bills at New England Patriots 1:00p (ET) 1:00p CBS
+Washington Commanders at New York Giants 1:00p (ET) 1:00p FOX
+Las Vegas Raiders at Philadelphia Eagles 1:00p (ET) 1:00p FOX
+Green Bay Packers at Denver Broncos 2:25p (MT) 4:25p CBS
+Detroit Lions at Los Angeles Rams 1:25p (PT) 4:25p FOX
+Carolina Panthers at New Orleans Saints 3:25p (CT) 4:25p FOX
+Indianapolis Colts at Seattle Seahawks 1:25p (PT) 4:25p CBS
+Tennessee Titans at San Francisco 49ers 1:25p (PT) 4:25p FOX
+Minnesota Vikings at Dallas Cowboys 7:20p (CT) 8:20p NBC
+Miami Dolphins at Pittsburgh Steelers (Mon) 8:15p (ET) 8:15p ESPN/ABC
+WEEK 15
+Thursday, December 11, 2025
+Sunday, December 14, 2025
+Monday, December 15, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+Los Angeles Rams at Seattle Seahawks (Thu) 5:15p (PT) 8:15p Prime Video
+Green Bay Packers at Chicago Bears (Sat) TBD TBD FOX
+Philadelphia Eagles at Washington Commanders (Sat) TBD TBD FOX
+New England Patriots at Baltimore Ravens 1:00p (ET) 1:00p CBS
+Tampa Bay Buccaneers at Carolina Panthers 1:00p (ET) 1:00p FOX
+Buffalo Bills at Cleveland Browns 1:00p (ET) 1:00p CBS
+Los Angeles Chargers at Dallas Cowboys 12:00p (CT) 1:00p FOX
+New York Jets at New Orleans Saints 12:00p (CT) 1:00p CBS
+Minnesota Vikings at New York Giants 1:00p (ET) 1:00p FOX
+Kansas City Chiefs at Tennessee Titans 12:00p (CT) 1:00p CBS
+Atlanta Falcons at Arizona Cardinals 2:05p (MT) 4:05p FOX
+Jacksonville Jaguars at Denver Broncos 2:05p (MT) 4:05p FOX
+Pittsburgh Steelers at Detroit Lions 4:25p (ET) 4:25p CBS
+Las Vegas Raiders at Houston Texans 3:25p (CT) 4:25p CBS
+Cincinnati Bengals at Miami Dolphins 8:20p (ET) 8:20p NBC
+San Francisco 49ers at Indianapolis Colts (Mon) 8:15p (ET) 8:15p ESPN
+Monday, December 22, 2025
+WEEK 16
+Thursday, December 18, 2025
+Saturday, December 20, 2025
+Sunday, December 21, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+Dallas Cowboys at Washington Commanders (Thu) 1:00p (ET) 1:00p NETFLIX
+Detroit Lions at Minnesota Vikings (Thu) 3:30p (CT) 4:30p NETFLIX
+Denver Broncos at Kansas City Chiefs (Thu) 7:15p (CT) 8:15p Prime Video
+Seattle Seahawks at Carolina Panthers TBD TBD TBD
+Arizona Cardinals at Cincinnati Bengals TBD TBD TBD
+Baltimore Ravens at Green Bay Packers TBD TBD TBD
+Houston Texans at Los Angeles Chargers TBD TBD TBD
+New York Giants at Las Vegas Raiders TBD TBD TBD
+Pittsburgh Steelers at Cleveland Browns 1:00p (ET) 1:00p CBS
+Jacksonville Jaguars at Indianapolis Colts 1:00p (ET) 1:00p FOX
+Tampa Bay Buccaneers at Miami Dolphins 1:00p (ET) 1:00p FOX
+New England Patriots at New York Jets 1:00p (ET) 1:00p CBS
+New Orleans Saints at Tennessee Titans 12:00p (CT) 1:00p CBS
+Philadelphia Eagles at Buffalo Bills 4:25p (ET) 4:25p FOX
+Chicago Bears at San Francisco 49ers 5:20p (PT) 8:20p NBC
+Los Angeles Rams at Atlanta Falcons (Mon) 8:15p (ET) 8:15p ESPN
+WEEK 17
+Thursday, December 25, 2025
+Saturday, December 27, 2025 - Time/Network TBD
+Sunday, December 28, 2025
+Monday, December 29, 2025
+GAME LOCAL ET TV
+2025 NFL Regular-Season Schedule (5:14:25)
+(Games grouped by start times and listed alphabetically by home team)
+New Orleans Saints at Atlanta Falcons TBD TBD TBD
+New York Jets at Buffalo Bills TBD TBD TBD
+Detroit Lions at Chicago Bears TBD TBD TBD
+Cleveland Browns at Cincinnati Bengals TBD TBD TBD
+Los Angeles Chargers at Denver Broncos TBD TBD TBD
+Indianapolis Colts at Houston Texans TBD TBD TBD
+Tennessee Titans at Jacksonville Jaguars TBD TBD TBD
+Arizona Cardinals at Los Angeles Rams TBD TBD TBD
+Kansas City Chiefs at Las Vegas Raiders TBD TBD TBD
+Green Bay Packers at Minnesota Vikings TBD TBD TBD
+Miami Dolphins at New England Patriots TBD TBD TBD
+Dallas Cowboys at New York Giants TBD TBD TBD
+Washington Commanders at Philadelphia Eagles TBD TBD TBD
+Baltimore Ravens at Pittsburgh Steelers TBD TBD TBD
+Seattle Seahawks at San Francisco 49ers TBD TBD TBD
+Carolina Panthers at Tampa Bay Buccaneers TBD TBD TBD
+WEEK 18
+Saturday, January 3, 2026 or Sunday, January 4, 2026
+"""
